@@ -1,1 +1,1 @@
-print("critical BUG")
+print("Hello Softuni")
