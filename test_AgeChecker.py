@@ -7,4 +7,4 @@ from AgeChecker import is_adult
     [(19, True)],
 )
 def test_is_adult(age, expected):
-    assert is_adult(age) == True
+    assert is_adult(age)
