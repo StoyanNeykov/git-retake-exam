@@ -1,5 +1,5 @@
 import pytest
-from age_checker import is_adult
+from AgeChecker import is_adult
 
 
 @pytest.mark.parametrize(
