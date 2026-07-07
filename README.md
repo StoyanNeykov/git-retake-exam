@@ -1,0 +1,1 @@
+Git retake exam Stoyan Neykov
