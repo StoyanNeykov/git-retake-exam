@@ -1,1 +1,1 @@
-print("soougskjgfvnojsdo")
+print("critical BUG")
