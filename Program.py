@@ -1,3 +1,1 @@
-print("critical BUG")
-
-print a = 2
+print("Hello Softuni")
